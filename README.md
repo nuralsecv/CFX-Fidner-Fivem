@@ -27,3 +27,10 @@ To run the "Nural CFX Finder" script on your system, you'll need to ensure you h
      ```
 
    - Enter the `cfx.re` link when prompted, and the script will retrieve and display the server's IP address.
+
+# Images
+
+
+![image](https://github.com/user-attachments/assets/ab46ddbd-0831-4021-a850-47b22824ff8f)
+
+![image](https://github.com/user-attachments/assets/63117501-80e1-4cca-b039-438adc5ddc28)
